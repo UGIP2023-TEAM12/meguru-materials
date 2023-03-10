@@ -3,6 +3,8 @@ __meguru__ は，2022年度 東京大学グローバル・インターンシッ�
 
 予選を通過して本戦に出場し，結果は 8位/21チーム でした．
 
+モックアップにおいて作成したプロトタイプは，[maguru-prototype](https://github.com/UGIP2023-TEAM12/meguru-prototype) にアップロードしています．
+
 ## Materials
 - explanation_documents.pdf: ハッカソンにおいて我々のチームが提案したビジネスについて記述した資料
 - presentaion_slides.pdf: 審査会におけるプレゼンテーションにおいて使用した資料
